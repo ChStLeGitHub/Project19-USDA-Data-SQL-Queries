@@ -1,4 +1,4 @@
-This repository contains SQL queries and their corresponding results using datasets sourced from the United States Department of Agriculture's (USDA) open data portal. The datasets are about production of goods in each state over the years, specifically: cheese, coffee, eggs, honey, milk, and yogurt.
+This repository contains SQL queries and their corresponding results using datasets sourced from the United States Department of Agriculture's (USDA) open data portal. The datasets are about the production of goods in each state over the years, specifically: cheese, coffee, eggs, honey, milk, and yogurt.
 
 The full dataframes are located in the **Dataframes** folder, the SQL queries I did are located in the **SQL Queries** folder, and the corresponding results are in the **SQL Results** folder. Furthermore, a screenshot of the ER diagrams can be found in the main branch.
 
