@@ -14,7 +14,7 @@ I've included a comment at the beginning of each .sql file outlining the questio
 
 5) List all states from state_lookup that are missing from milk_production in 2023.
 
-I got the ideas for the SQL queries from a Coursera course I completed titled **SQL for Data Science**, which can be found using the following URL: 
+I got the ideas for the queries from a Coursera course titled **SQL for Data Science**, which can be found using the following URL: 
 
 https://www.coursera.org/learn/sql-for-data-science?specialization=learn-sql-basics-data-science
 
