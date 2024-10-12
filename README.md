@@ -1,4 +1,4 @@
-# USDA (United States Department of Agriculture) SQL Queries
+# USDA SQL Queries
 
 This repository contains SQL queries and their corresponding results using datasets sourced from the United States Department of Agriculture's (USDA) open data portal. The datasets are about the production of goods in each state over the years, specifically: cheese, coffee, eggs, honey, milk, and yogurt.
 
